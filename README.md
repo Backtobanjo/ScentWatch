@@ -36,8 +36,6 @@ Put today's price into context with historical observations collected by ScentWa
 
 ## What ScentWatch Does
 
-## What ScentWatch Does
-
 Fragrance prices can vary substantially between retailers and over time. Discounts are frequent, recommended retail prices are often poor indicators of actual market value, and a price advertised as a sale is not necessarily unusual.
 
 ScentWatch is designed around a simple idea:
